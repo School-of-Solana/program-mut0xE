@@ -2,7 +2,7 @@
 Username Wallet - Solana dApp
 A decentralized wallet system built on Solana that allows users to register usernames and send/receive SOL tokens through human-readable addresses instead of complex public keys. Each user has their own wallet vault derived from their username.
 
-**Deployed Frontend URL:** [TODO: Link to your deployed frontend]
+**Deployed Frontend URL:** https://solana-username-wallet-o73c.vercel.app/
 
 **Solana Program ID:** BWEK6JuhkArseF8WhofrDSxK7wr9oDmRDvmbvALxsGML
 
